@@ -10,7 +10,7 @@ Be that as it may and to argue with you (because I know you want to), in my opin
 
 Anyways, TL;DR: I kept my self-written stuff a secret for a very long time without any special reason, because come on, if you want to steal it do so, I will find you anyway. This is the platform I want to share it for the first time. This repository is everything I have written so far mostly using Guitar Pro and MuseScore (MIDI) and includes completed songs, a lot of song parts and even more riffs for guitar, bass, drums and piano spanning multiple genres. You can listen to the stuff in your own pace and if you find something very nice or really really bad (most stuff is only really bad) then you can tell me that, I would be very happy about it! If you need some files you should listen to first, check out the following:
 
-- Goodies/probably finished/In Search of Destiny.gp5
+- Goodies/probably finished/ In Search of Destiny
 - Goodies/probably finished/ Forgiven (Acoustic)
 - The Suite of M(r)s. X/ The Suite of M(r)s. X (read the txt files as well)
 - Goodies/ Alles steht Kopf
