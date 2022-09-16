@@ -13,7 +13,7 @@ Anyways, TL;DR: I kept my self-written stuff a secret for a very long time witho
 - Goodies/probably finished/ In Search of Destiny
 - Goodies/probably finished/ Forgiven (Acoustic)
 - The Suite of M(r)s. X/ The Suite of M(r)s. X (read the txt files as well)
-- Goodies/ Alles steht Kopf
+- Goodies/ Alles steht Kopf (mwans "everything is upside-down")
 - Collec/Riffs/bass/ Mango Curry
 - Collec/Riffs/ Agapi Mou Bari (means "my heavy/deep love")
 - my Soundcloud account for electro stuff
