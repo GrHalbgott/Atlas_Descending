@@ -1,3 +1,5 @@
+> open the files with <a href="https://www.guitar-pro.com">Guitar Pro </a> (at least 5.x) or <a href="http://www.tuxguitar.com.ar">TuxGuitar</a> (free)
+
 # Atlas Descending
 
 Hi guys, thanks for checking out my repo! 
