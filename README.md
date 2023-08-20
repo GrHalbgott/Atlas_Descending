@@ -1,4 +1,4 @@
-> open the files with [Guitar Pro](https://www.guitar-pro.com) (at least 5.x) or [TuxGuitar](http://www.tuxguitar.com.ar) (free)
+> open the files with [Guitar Pro](https://www.guitar-pro.com) (at least 5.x) or [TuxGuitar](https://sourceforge.net/projects/tuxguitar/) (free)
 
 # Atlas Descending
 
@@ -30,4 +30,4 @@ If you are further interested in the topic (me and my music lol), check out the 
 
 One last thing: I am open to collaborate if you have some ideas for really anything. I can't promise that I am able to play your stuff on any of the mentioned instruments directly, but I will happily try and keep in touch with you until I can.
 
-Keep on vibing to anything you like! - GrHalbgott
+Keep on vibing to anything you like! - GrHalbgott 🤘
