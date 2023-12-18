@@ -15,6 +15,7 @@ If you need some tips about what files you should listen to first, check out the
 - [The Suite of M(r)s. X](./Goodies/The%20Suite%20of%20M(r)s.%20X/) (read the txt files as well)
 - [Time for Adventure!](./Goodies/Songs/Time%20for%20Adventure!.gp5)
 - [Mango Curry](./Collec/Riffs/bass/Mango%20Curry.gp5)
+- the homepage of [Atlas Descending](https://www.ultimate-guitar.com/u/GrHalbgott) for demos, electro stuff (Soundcloud)
 - my [Soundcloud](https://soundcloud.com/grhalbgott) account for additional electro stuff
 
 *Longer explanation:*  
