@@ -1,4 +1,4 @@
-> open the files with [Guitar Pro](https://www.guitar-pro.com) (at least 5.x) or [TuxGuitar](https://sourceforge.net/projects/tuxguitar/) (free)
+> open the files with [Guitar Pro](https://www.guitar-pro.com) (at least 5.x), [TuxGuitar](https://sourceforge.net/projects/tuxguitar/) (free) or an online service like [Soundslice](https://www.soundslice.com)
 
 # Atlas Descending
 
@@ -11,12 +11,13 @@ If you need some tips about what files you should listen to first, check out the
 
 - [In Search of Destiny](./Goodies/probably%20finished/In%20Search%20of%20Destiny.gp5)
 - [I Lost My Heart In Mississippi](./Goodies/Songs/I%20Lost%20My%20Heart%20in%20Mississippi.gp5)
+- [Sin](./Goodies/probably%20finished/Sin.gp5)
 - [Forgiven (Acoustic)](./Goodies/probably%20finished/Forgiven%20(Acoustic).gp5)
 - [The Suite of M(r)s. X](./Goodies/The%20Suite%20of%20M(r)s.%20X/) (read the txt files as well)
 - [Time for Adventure!](./Goodies/Songs/Time%20for%20Adventure!.gp5)
 - [Mango Curry](./Collec/Riffs/bass/Mango%20Curry.gp5)
-- the homepage of [Atlas Descending](https://www.ultimate-guitar.com/u/GrHalbgott) for demos, electro stuff (Soundcloud)
-- my [Soundcloud](https://soundcloud.com/grhalbgott) account for additional electro stuff
+- the homepage of [Atlas Descending](https://www.ultimate-guitar.com/u/GrHalbgott) with links for electro music, demos and more
+- my [Soundcloud](https://soundcloud.com/grhalbgott) account for "published" music
 
 *Longer explanation:*  
 Besides all the studying and coding I am a guitarist and am playing multiple additional instruments like drums, bass, piano, melodica, harmonica and a lot of percussion. I absolutely love music (look at my [Spotify](https://open.spotify.com/user/w2on4iq7y2j9cw928mivcrf9c?si=e2792517e44c4d1e) profile) and started writing music back in the days when I took guitar lessons. With time the riffs got better, the songs longer and more complex and my taste in music went from "Rock only!" to a variety of genres starting way back in time (folklore from ancient times), passing everything from the baroque, classical and romantic era to modern music, including early blues and jazz in the beginning of the 20th century, Rock 'n' Roll from the 50s to today including the glorious Woodstock era, 80s' party music, new punk beginning in the 90ties, Indie in all its facettes and getting closer to my main taste in music, metal. Scooter is my guilty pleasure and even some chart songs are in my playlist as well. Did I mention dubstep, too? Damn the list becomes longer every day (and my [##Absolute Best##](https://open.spotify.com/playlist/07x1lpoI77AKsmWtqJIGaR?si=0081befc9c4a49df) as well as my Liked Songs playlist, too).
