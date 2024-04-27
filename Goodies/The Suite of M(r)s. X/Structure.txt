@@ -1,27 +1,25 @@
-Suite pt. I: Duality
+Act I: Fallacy
+---
+Act II: Desolation
 
-  I. Prelude: Inception
- II. Betrayal
-----
-Suite pt. II: Sorrow
-
-  I. Prelude: Fallacy
+  I. Prelude: Duality - Betrayal - Sorrow
  II. Rain of Tears
 III. Despair
 ----
-Suite pt. III: Wrath
+Act III: Wrath
  
   I. Prelude: Dark Thoughts
  II. Insanity
 III. Atrocity
 ----
-Suite pt. IV: Regret
+Act IV: Regret
 
   I. Prelude: Prevarication
  II. Realization
 III. Abomination
 ----
-Suite pt. V: Resort
+Act V: Resort
 
   I. Vicious Circle
- II. Peace
+ II. Remembrance
+III. Peace
