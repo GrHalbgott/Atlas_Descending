@@ -6,11 +6,12 @@ Act II: Desolation
  II. Rain of Tears
 III. Despair
 ----
-Act III: Wrath
- 
+Act III: Depravity
+
   I. Prelude: Dark Thoughts
- II. Insanity
-III. Atrocity
+ II. Wrath
+III. Insanity
+ IV. Atrocity
 ----
 Act IV: Regret
 
@@ -22,4 +23,5 @@ Act V: Resort
 
   I. Vicious Circle
  II. Remembrance
-III. Peace
+III. Grief
+ IV. Peace
