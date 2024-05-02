@@ -1,5 +1,5 @@
 Act I: Fallacy
----
+----
 Act II: Desolation
 
   I. Prelude: Duality - Betrayal - Sorrow
@@ -9,7 +9,7 @@ III. Despair
 Act III: Depravity
 
   I. Prelude: Dark Thoughts
- II. Wrath
+ II. Impervious
 III. Insanity
  IV. Atrocity
 ----
@@ -18,10 +18,10 @@ Act IV: Regret
   I. Prelude: Prevarication
  II. Realization
 III. Abomination
+ IV. Vicious Circle 
 ----
 Act V: Resort
 
-  I. Vicious Circle
- II. Remembrance
-III. Grief
- IV. Peace
+  I. Remembrance
+ II. Grief Absent
+III. Peace
