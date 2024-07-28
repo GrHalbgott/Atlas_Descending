@@ -10,8 +10,9 @@ Act III: Depravity
 
   I. Prelude: Dark Thoughts
  II. Strive for Resistance
-III. Insanity
- IV. Atrocity
+III. Wrath
+ IV. Insanity
+  V. Atrocity
 ----
 Act IV: Regret
 
@@ -22,6 +23,6 @@ III. Abomination
 ----
 Act V: Resort
 
-  I. Remembrance
+  I. Prelude: Remembrance
  II. Resolution?
 III. Peace
