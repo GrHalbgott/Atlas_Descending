@@ -9,13 +9,13 @@ this repo is a collection of my self-written music and I want to share it with y
 
 If you need some tips about what files you should listen to first, check out the following:
 
-- [In Search of Destiny](./Goodies/probably%20finished/In%20Search%20of%20Destiny.gp5)
-- [Puppy Metal](./Goodies/probably%20finished/Puppy%20Metal.gp5)
-- [Sin](./Goodies/probably%20finished/Sin.gp5)
-- [Forgiven (Acoustic)](./Goodies/probably%20finished/Forgiven%20(Acoustic).gp5)
-- [The Suite of M(r)s. X](./Goodies/The%20Suite%20of%20M(r)s.%20X/) (read the txt files as well)
-- [Time for Adventure!](./Goodies/Songs/Time%20for%20Adventure!.gp5)
-- [Mango Curry](./Collec/Riffs/bass/Mango%20Curry.gp5)
+- [In Search of Destiny](./Songs/probably%20finished/In%20Search%20of%20Destiny.gp5)
+- [Puppy Metal](./Songs/probably%20finished/Puppy%20Metal.gp5)
+- [Sin](./Songs/probably%20finished/Sin.gp5)
+- [Forgiven (Acoustic)](./Songs/probably%20finished/Forgiven%20(Acoustic).gp5)
+- [The Suite of M(r)s. X](./Songs/The%20Suite%20of%20M(r)s.%20X/) (read the txt files as well)
+- [Time for Adventure!](./Songs/Time%20for%20Adventure!.gp5)
+- [Mango Curry](./Riffs/bass/Mango%20Curry.gp5)
 - the homepage of [Atlas Descending](https://www.ultimate-guitar.com/u/GrHalbgott) with links for electro music, demos and more
 - my [Soundcloud](https://soundcloud.com/grhalbgott) account for "published" music
 
