@@ -1,0 +1,5 @@
+Dorian for minor scales (position?)
+Mixolydian for major scales (same position)
+Harmonic (where to start in relation to tonic)
+
+In Major, add secondary dominant (major 7) before any chord, same position, but one string lower (base not e on A-string -> major 7, to same position one string higher for major chord)
